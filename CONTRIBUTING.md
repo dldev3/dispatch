@@ -1,4 +1,4 @@
-# Contributing to Project Name
+# Contributing to Dispatch-MQ
 
 First off, thank you for considering contributing to this project! It's people like you that make open source such an amazing community.
 
@@ -21,10 +21,10 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ## 🔀 Pull Request Process
 
-1. **Fork the repository** on GitHub (`https://github.com/dldev/your-repo-name`).
+1. **Fork the repository** on GitHub (`https://github.com/dldev3/dispatch`).
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/dldev3/dispatch.git
    ```
 3. **Create a new branch** for your feature or bugfix:
    ```bash
@@ -36,7 +36,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
    ```bash
    git push origin feature/your-feature-name
    ```
-7. **Open a Pull Request** against the `main` branch of `dldev/your-repo-name`.
+7. **Open a Pull Request** against the `main` branch of `dldev3/dispatch`.
 
 ## 📜 Code of Conduct
 
