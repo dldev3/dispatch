@@ -34,6 +34,7 @@ function dequeue(): Job | undefined {
   return queue.shift();
 }
 
+
 async function executeJob(job: Job): Promise<void> {
   console.log(`[EXECUTING] ${job.type}`);
 
@@ -41,6 +42,8 @@ async function executeJob(job: Job): Promise<void> {
 
   console.log(job.payload.message);
 }
+
+
 async function processNextJob(): Promise<boolean> {
   const job = dequeue();
 
